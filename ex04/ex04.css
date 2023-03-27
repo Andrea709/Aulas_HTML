@@ -1,3 +1,4 @@
+
 span{
     box-shadow: 3px 0px 7px -1px #ce67eb;
 	background-color:#ffffff;
@@ -13,13 +14,6 @@ span{
 	text-shadow:0px 1px 0px #000000;
 }
 
-.b1:hover{
-    background-color:#d6d6d6;
+.b1:hover {
+	background-color:#5cbf2a;
 }
-
-.b1:active{
-    position:relative;
-	top:1px;
-}
-
-
